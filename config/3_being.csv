@@ -1,0 +1,8 @@
+BeingName,HP,ATK,DEF,Vision,NightVision,Speed,MoveInterval,RebirthCount,Temper,AttackDistance,Distribution,CollectTable,DropTable,Script,Condition
+Pig,20,0,10,4,3,1,1,1500,0,1,Forest:10,,Leather:4;Meat:3;Tendon:1,,
+Rabbit,5,0,0,4,3,1,0,1000,0,1,Grassland:5;Forest:10,,Meat:1,,
+Ox,100,30,20,5,2,1,0,2000,1,2,Grassland:5,,Meat:8,,
+Goat,40,7,0,4,2,1,2,1000,1,2,Grassland:10,,Meat:3,,
+Tree,100,0,0,0,0,0,0,500,0,0,Grassland:10,Branch:10:1000,Wood:4,,
+AppleTree,120,0,0,0,0,0,0,600,0,0,Forest:5,Apple:20:5000,Wood:4,,
+Grass,40,0,0,0,0,0,0,200,0,0,Grassland:10;Forest:10,Cutgrass:10:100,,,

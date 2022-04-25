@@ -1,0 +1,3 @@
+AgentName,Slot,BackpackSize,HP,Hunger,Thirst,Temperature,ATK,DEF,AttackDistance,CollectDistance,Vision,NightVision,Speed,Actable,Distribution,Script,Condition
+Brave,Weapon;Armor;Light;Other,20,100,100,100,25,10,5,1,1,7,1,2,i:m:e:a:f:p:c:d:s,Grassland:1,,
+PYS,Weapon;Armor;Light;Other,20,100,100,100,25,10,5,1,1,7,1,1,i:m:e:a:f:p:c:d:s,,,

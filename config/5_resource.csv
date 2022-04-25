@@ -1,0 +1,4 @@
+ResourceName,Distribution,CollectTable,Script,Condition
+Pool,Grassland:5;Forest:10,Water:10:500,,
+Embacle,Snowland:5,Ice:20:500,,
+Rock,Grassland:5;Desert:20,Stone:5:500,,

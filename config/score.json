@@ -1,0 +1,60 @@
+{
+  "Idle": {
+    "default": 0.0
+  },
+  "Attack": {
+    "fail": -1.0,
+    "default_hit": 0.0,
+    "default_kill": 0.0,
+    "Pig_hit": 0.0,
+    "Pig_kill": 0.0
+  },
+  "Collect": {
+    "fail": -1.0,
+    "default": 0.0,
+    "Tree": 0.0
+  },
+  "Discard": {
+    "fail": -1.0,
+    "default": 0.0,
+    "Meat": 0.0
+  },
+  "Move": {
+    "fail": -1.0,
+    "default": 0.0
+  },
+  "Synthesize": {
+    "fail": -1.0,
+    "default": 0.0,
+    "Torch": 0.0
+  },
+  "Pickup": {
+    "fail": -1.0,
+    "default": 0.0,
+    "Meat": 0.0
+  },
+  "Equip": {
+    "fail": -1.0,
+    "default_equip": 0.0,
+    "default_undress": 0.0,
+    "Torch_equip": 0.0,
+    "Torch_undress": 0.0
+  },
+  "Consume": {
+    "fail": -1.0,
+    "default": 0.0,
+    "Water": 0.1,
+    "Meat": 0.1
+  },
+  "Attribute":{
+    "default": 0.0,
+    "ATK": 1.0,
+    "HP": 2.0,
+    "DEF": 0.5
+  },
+  "Dead": -10,
+  "ScorePoint": {
+    "0-0" : -1,
+    "9-9" : 1
+  }
+}

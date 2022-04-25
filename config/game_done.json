@@ -1,0 +1,18 @@
+{
+    "position": [
+        [-1, -1],
+        [23, 25]
+    ],
+    "attribute": {
+        "Hunger": 0,
+        "Thirst": 0
+    },
+    "backpack": {
+        "Meat": 50,
+        "Branch": 1000
+    },
+    "equipment": [
+        "Bow",
+        "WoodArmor"
+    ]
+}
